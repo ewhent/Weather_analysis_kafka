@@ -1,0 +1,4 @@
+yaml_files/
+kafka-project-creds.pem
+.env
+__pycache__/
